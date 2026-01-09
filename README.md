@@ -24,7 +24,7 @@
 | :---: | :---: | :---: |
 | <img src="assets/images/screenshots/1.png" width="200"> | <img src="assets/images/screenshots/5.png" width="200"> | <img src="assets/images/screenshots/4.png" width="200"> |
 
-| 账号/侧边 | 购买套餐 |
+| 登录/注册 | 购买套餐 |
 | :---: | :---: |
 | <img src="assets/images/screenshots/3.png" width="200"> | <img src="assets/images/screenshots/2.png" width="200"> |
 
