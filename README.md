@@ -76,6 +76,15 @@ Flux 在不同平台上采用了最原生的系统级方案来接管网络流量
     3.  所有浏览器和支持系统代理的应用流量会自动流向内核。
 *   **优势**: 兼容性好，不干扰系统底层驱动。
 
+### 3. 协议支持 (Supported Protocols)
+
+得益于 Xray Core 的强大能力，Flux 支持当今主流的抗审查协议：
+
+*   **VLESS**: 支持 `TCP`, `WS`, `TLS`, `REALITY`, `gRPC` 等多种传输组合。
+*   **VMess**: 经典协议支持，兼容 `TCP`, `WS`, `TLS`, `Auto` 安全模式。
+*   **Trojan**: 完整的 Trojan 协议支持，包括 `Trojan-Go` 特性兼容。
+*   **Shadowsocks**: (实验性) 支持基础的 SS 协议配置。
+
 ---
 
 ## 🚀 快速上手指南
